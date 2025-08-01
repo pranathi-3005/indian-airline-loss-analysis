@@ -29,6 +29,7 @@ We performed a data-driven analysis of seat occupancy (load factor) across major
 - IndiGo alone accounted for ₹5,900 Cr in lost revenue due to 13.5k+ Mn unsold seat-kilometers.
 - A simulated 10% improvement in load factor could recover ₹9,000+ Cr industry-wide.
 - A 10% ASK reduction on low-performing routes can recover an additional ₹1,030+ Cr.
+- Modeled seat-fill strategies (e.g., dynamic pricing, route cuts), reducing losses by ₹1,243 Cr (~12%)
 - Pie charts, trend lines, and bar graphs were used to visualize these insights.
 ---
 
